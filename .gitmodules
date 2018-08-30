@@ -1,0 +1,180 @@
+[submodule "bundle/vim-vividchalk"]
+	path = bundle/vim-vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = https://github.com/vim-scripts/molokai.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-cucumber"]
+	path = bundle/vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
+	url = https://github.com/tpope/vim-haml.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/ack.vim"]
+	path = bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/Command-T.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/vim-ruby-refactoring"]
+	path = bundle/vim-ruby-refactoring
+	url = https://github.com/ecomba/vim-ruby-refactoring.git
+[submodule "bundle/vim-textobj-rubyblock"]
+	path = bundle/vim-textobj-rubyblock
+	url = https://github.com/nelstrom/vim-textobj-rubyblock.git
+[submodule "bundle/vim-textobj-user"]
+	path = bundle/vim-textobj-user
+	url = https://github.com/kana/vim-textobj-user.git
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/vim-irblack"]
+	path = bundle/vim-irblack
+	url = https://github.com/wgibbs/vim-irblack.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "bundle/cucumbertables/ftplugin"]
+	path = bundle/cucumbertables/ftplugin
+	url = https://gist.github.com/1486660.git
+[submodule "bundle/vim-colors-candycode"]
+	path = bundle/vim-colors-candycode
+	url = https://github.com/vim-scripts/candycode.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-colors-sampler"]
+	path = bundle/vim-colors-sampler
+	url = https://github.com/vim-scripts/Color-Sampler-Pack.git
+[submodule "bundle/enhancedjumps"]
+	path = bundle/enhancedjumps
+	url = https://github.com/vim-scripts/EnhancedJumps.git
+[submodule "bundle/diffthese"]
+	path = bundle/diffthese
+	url = https://github.com/matt-royal/diffthese.git
+[submodule "bundle/handlebars"]
+	path = bundle/handlebars
+	url = https://github.com/nono/vim-handlebars.git
+[submodule "bundle/vim-colors-tomorrow"]
+	path = bundle/vim-colors-tomorrow
+	url = https://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = https://github.com/juvenn/mustache.vim.git
+[submodule "bundle/vim-cucumber-align-pipes"]
+	path = bundle/vim-cucumber-align-pipes
+	url = https://github.com/quentindecock/vim-cucumber-align-pipes.git
+[submodule "bundle/j-split"]
+	path = bundle/j-split
+	url = https://github.com/mgamba/j-split.git
+[submodule "bundle/ZoomWin"]
+	path = bundle/ZoomWin
+	url = https://github.com/vim-scripts/ZoomWin.git
+[submodule "bundle/vim-slim"]
+	path = bundle/vim-slim
+	url = https://github.com/slim-template/vim-slim.git
+[submodule "bundle/vim-blockle"]
+	path = bundle/vim-blockle
+	url = https://github.com/jgdavey/vim-blockle.git
+[submodule "bundle/camelcasemotion"]
+	path = bundle/camelcasemotion
+	url = https://github.com/vim-scripts/camelcasemotion.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/edit-plus"]
+	path = bundle/edit-plus
+	url = https://github.com/mgamba/edit-plus.git
+[submodule "bundle/vim-cdo"]
+	path = bundle/vim-cdo
+	url = https://github.com/Peeja/vim-cdo.git
+[submodule "bundle/vim-rake"]
+	path = bundle/vim-rake
+	url = https://github.com/tpope/vim-rake.git
+[submodule "bundle/vim-rspec"]
+	path = bundle/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "bundle/ag.vim"]
+	path = bundle/ag.vim
+	url = https://github.com/rking/ag.vim.git
+[submodule "bundle/vim-jsx"]
+	path = bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "bundle/vim-indentwise"]
+	path = bundle/vim-indentwise
+	url = https://github.com/jeetsukumaran/vim-indentwise.git
+[submodule "bundle/vim-indent-object"]
+	path = bundle/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object.git
+[submodule "bundle/regreplop"]
+	path = bundle/regreplop
+	url = https://github.com/vim-scripts/regreplop.vim.git
+[submodule "bundle/FuzzyFinder"]
+	path = bundle/FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/l9"]
+	path = bundle/l9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "bundle/RootIgnore"]
+	path = bundle/RootIgnore
+	url = https://github.com/octref/RootIgnore.git
+[submodule "bundle/undotree"]
+	path = bundle/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "bundle/vimroom"]
+	path = bundle/vimroom
+	url = https://github.com/mikewest/vimroom.git
+[submodule "bundle/vim-tsx"]
+	path = bundle/vim-tsx
+	url = https://github.com/ianks/vim-tsx.git
+[submodule "bundle/vim-autoswap"]
+	path = bundle/vim-autoswap
+	url = https://github.com/gioele/vim-autoswap.git
+[submodule "bundle/vim-sleuth"]
+	path = bundle/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
