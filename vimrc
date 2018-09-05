@@ -30,6 +30,7 @@ Plug 'vim-scripts/L9'
 Plug 'vim-scripts/molokai'
 call plug#end()
 
+source ~/.vim/config/filetypes.vim
 source ~/.vim/config/mappings.vim
 source ~/.vim/config/plugins.vim
 source ~/.vim/config/settings.vim
