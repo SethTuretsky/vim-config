@@ -45,6 +45,9 @@ set sessionoptions-=options
 set nolist                      " Don't show tabs, I think
 
 set hls                         " search with highlights by default
+
+set guioptions=                 " hide scrollbars
+
 " Press Space to turn off highlighting and clear any message already
 " displayed.
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>""
