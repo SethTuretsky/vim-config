@@ -48,6 +48,8 @@ set hls                         " search with highlights by default
 
 set guioptions=                 " hide scrollbars
 
+set colorcolumn=80              " Vertical guide for line length
+
 " Press Space to turn off highlighting and clear any message already
 " displayed.
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>""
