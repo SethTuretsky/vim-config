@@ -35,3 +35,6 @@ map <silent> <D-C> :let @* = expand("%")<CR>:echo "Copied: ".expand("%")<CR>
 
 " A rough opposite of J: inserts new-line. Real opposite of J, though, is: r<CR>
 nmap <C-J> i<CR><ESC>
+
+" Ag for current term
+nnoremap <leader>a :Ag <cword><CR>
