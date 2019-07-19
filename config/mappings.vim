@@ -25,9 +25,6 @@ map \|          :NERDTreeFind<CR>
 vmap <tab> >gv
 vmap <s-tab> <gv
 
-" Tab in insert mode should just indent
-autocmd VimEnter * iunmap <tab>
-
 " Comment/uncomment lines
 map <leader>/   <plug>NERDCommenterToggle
 
