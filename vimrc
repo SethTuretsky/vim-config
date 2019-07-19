@@ -3,7 +3,6 @@ set nocompatible
 call plug#begin('~/.vim/plugged')
 Plug 'Peeja/vim-cdo'
 Plug 'airblade/vim-gitgutter'
-Plug 'ervandew/supertab'
 Plug 'gosukiwi/vim-atom-dark'
 Plug 'junegunn/vim-easy-align'
 Plug 'kana/vim-textobj-user'
