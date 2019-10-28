@@ -3,10 +3,11 @@ set nocompatible
 call plug#begin('~/.vim/plugged')
 Plug 'Peeja/vim-cdo'
 Plug 'airblade/vim-gitgutter'
+Plug 'bogado/file-line'
+Plug 'ctrlpvim/ctrlp.vim'
 Plug 'gosukiwi/vim-atom-dark'
 Plug 'junegunn/vim-easy-align'
 Plug 'kana/vim-textobj-user'
-Plug 'ctrlpvim/ctrlp.vim'
 Plug 'majutsushi/tagbar'
 Plug 'matt-royal/diffthese'
 Plug 'mileszs/ack.vim'
@@ -22,12 +23,10 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rails'
 Plug 'tpope/vim-sleuth'
 Plug 'tpope/vim-surround'
-" Plug 'vim-airline/vim-airline'
 Plug 'vim-ruby/vim-ruby'
 Plug 'vim-scripts/FuzzyFinder'
 Plug 'vim-scripts/L9'
 Plug 'vim-scripts/molokai'
-Plug 'bogado/file-line'
 call plug#end()
 
 source ~/.vim/config/filetypes.vim
