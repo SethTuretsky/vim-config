@@ -27,6 +27,7 @@ Plug 'vim-ruby/vim-ruby'
 Plug 'vim-scripts/FuzzyFinder'
 Plug 'vim-scripts/L9'
 Plug 'vim-scripts/molokai'
+Plug 'bogado/file-line'
 call plug#end()
 
 source ~/.vim/config/filetypes.vim
